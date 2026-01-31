@@ -11,6 +11,6 @@ go into the tailscale dashboard and set that server as a exit node
 ``` TS dash > device settings > edit route settings > enable exit node ```
 
 ## Claude code install 
-``` curl -fsSL https://cdn.jsdelivr.net/npm/@anthropics/claude-code/install.sh | sh  ```
+```   curl -fsSL https://claude.ai/install.sh | bash   ```
 
 
